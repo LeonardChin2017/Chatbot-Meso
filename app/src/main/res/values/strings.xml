@@ -1,0 +1,14 @@
+<resources>
+  <string name="app_name">INSIGHTX V2</string>
+  <string name="clear">Clear</string>
+  <string name="Linkern">Linkern</string>
+  <string name="Chin">Chin</string>
+  <string name="Jason">Jason</string>
+  <string name="Escape">Escape</string>
+  <string name="FallDown">Fall Down</string>
+  <string name="Screenshot">Screenshot</string>
+  <string name ="home">home</string>
+  <string name="open_drawer">open_drawer</string>
+  <string name="close_drawer">close_drawer</string>
+  <string name="InsightX">InsightX</string>
+</resources>

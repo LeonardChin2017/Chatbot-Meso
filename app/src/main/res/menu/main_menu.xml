@@ -1,0 +1,33 @@
+<?xml version="1.0" encoding="utf-8"?>
+<menu xmlns:android="http://schemas.android.com/apk/res/android"
+      xmlns:app="http://schemas.android.com/apk/res-auto">
+    <item
+        android:id="@+id/clear"
+        android:title="@string/clear"
+        app:showAsAction="never"/>
+    <item
+        android:id="@+id/linkern"
+        android:title="@string/Linkern"
+        app:showAsAction="never"/>
+    <item
+        android:id="@+id/Chin"
+        android:title="@string/Chin"
+        app:showAsAction="never"/>
+    <item
+        android:id="@+id/Jason"
+        android:title="@string/Jason"
+        app:showAsAction="never"/>
+    <item
+        android:id="@+id/Escape"
+        android:title="@string/Escape"
+        app:showAsAction="never"/>
+    <item
+        android:id="@+id/falldown"
+        android:title="@string/FallDown"
+        app:showAsAction="never"/>
+    <item
+        android:id="@+id/screenshot"
+        android:title="@string/Screenshot"
+        app:showAsAction="never"/>
+
+</menu>
