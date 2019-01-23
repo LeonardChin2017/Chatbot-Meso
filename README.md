@@ -3,6 +3,4 @@ This is the full code for the Chatbot-Meso. Chatbot-Meso is the chatbot develope
 
 	
 # Screenshot
-![Chatbot Screenshot](https://github.com/LeonardChin2017/Chatbot-Meso/blob/master/screenshots/screenshot2.png)
-
-
+<a href="url"><img src="https://github.com/LeonardChin2017/Chatbot-Meso/blob/master/screenshots/screenshot2.png" align="left" height="600" width="400" ></a>
